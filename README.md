@@ -1,10 +1,10 @@
 # Animated App with Flutter and Rive
 
-<!--## App Screenshots
+## App Screenshots
 
 | Onboarding | Login UI | After Login UI |
 |------------|----------|-----------------|
-| ![Onboarding](Onb.png?raw=true) | ![Sign-up UI](https://github.com/pramodkoujalagi/Animated-App_Fluttter-Rive/blob/main/Sign_In.png?raw=true) | ![After Sign-in UI](https://github.com/pramodkoujalagi/Animated-App_Fluttter-Rive/blob/main/Logged_In.png?raw=true) |-->
+| ![](https://github.com/pramodkoujalagi/Animated-App_Fluttter-Rive/blob/main/Onb.png) | ![Sign-up UI](https://github.com/pramodkoujalagi/Animated-App_Fluttter-Rive/blob/main/Sign_In.png?raw=true) | ![After Sign-in UI](https://github.com/pramodkoujalagi/Animated-App_Fluttter-Rive/blob/main/Logged_In.png?raw=true) |
 
 Flutter and Rive project featuring a stunning animated onboarding page with a sleek "Get started" button. Upon clicking "Get started," users are greeted with a polished login UI that offers options to sign up and sign in. The login methods include email, Apple, and Google authentication. For demonstration purposes, feel free to use any email or password to log in.
 
