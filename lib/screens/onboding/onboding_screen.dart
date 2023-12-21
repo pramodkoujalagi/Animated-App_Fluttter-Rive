@@ -76,7 +76,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                           ),
                           SizedBox(height: 16),
                           Text(
-                              "don't skip design.learn design and code,by building real apps with flutter."),
+                              "Don't skip design. Learn design and code, by building real apps with flutter."),
                         ],
                       ),
                     ),
