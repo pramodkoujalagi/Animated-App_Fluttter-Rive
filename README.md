@@ -1,15 +1,14 @@
 # Animated App with Flutter and Rive
 
 
-<!--## App Screenshots
 
-| Onboarding | Login | After Login  |
-|------------|----------|-----------------|
-| ![Onboarding](onb.PNG) | ![Sign-up UI](signin.PNG) | ![After Sign-in UI](login.PNG) |-->
 
 Flutter and Rive project featuring a stunning animated onboarding page with a sleek "Get started" button. Upon clicking "Get started," users are greeted with a polished login UI that offers options to sign up and sign in. The login methods include email, Apple, and Google authentication. For demonstration purposes, feel free to use any email or password to log in.
 
 Once signed in, users are treated to a beautiful navigation bar adorned with animated icons, adding an extra layer of visual appeal. The code is highly customizable, allowing you to tailor it to your specific use cases and preferences.
+
+# Checkout the demo here
+[Animated-UI-Demo](https://www.veed.io/view/c84e8b6b-3a2c-4404-a950-a3cb510f2604?panel=share)
 
 ## Features
 
