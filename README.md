@@ -8,7 +8,7 @@ Flutter and Rive project featuring a stunning animated onboarding page with a sl
 Once signed in, users are treated to a beautiful navigation bar adorned with animated icons, adding an extra layer of visual appeal. The code is highly customizable, allowing you to tailor it to your specific use cases and preferences.
 
 # Checkout the demo here
-[Animated-UI-Demo](https://www.veed.io/view/c84e8b6b-3a2c-4404-a950-a3cb510f2604?panel=share)
+[Animated-UI-Demo](https://veed.io/view/c84e8b6b-3a2c-4404-a950-a3cb510f2604)
 
 ## Features
 
